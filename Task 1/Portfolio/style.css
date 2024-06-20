@@ -421,3 +421,28 @@ a:hover{
     color: white;
 
 }
+@media (max-width:420px) {
+    .copyright-section{
+        width: 578px;
+    }
+    .contact-sectio{
+        width: 575px;
+    }
+    .contact-left{
+        margin-left: 50px;
+    }
+    .about-right{
+        margin-left: 100px;
+        margin-bottom: 20px;
+    }
+    .about-left p{
+        margin-left: 70px;
+        line-height: 1.8;
+    }
+    .skils-name{
+        width: 575px;
+    }
+    .skill-img p{
+        
+    }
+}
