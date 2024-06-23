@@ -6,12 +6,12 @@ let tog = false;
 btn.addEventListener("click" , () => {
    if(tog === false){
     tog = true;
-    p.style.visibility = "visible";
+    p.style.display = "block";
     p.style.transition = "0.3s ";
 }
 else{
     tog = false;
-    p.style.visibility = "hidden";
+    p.style.display = "none";
     p.style.transition = "0.3s ";
    }
 })
