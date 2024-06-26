@@ -81,8 +81,8 @@ a{
 }
 .about-img{
     /* background-color: green; */
-    width: 500px;
-    height: 800px;
+    width: 440px;
+    height: 600px;
     overflow: hidden;
 }
 img{
@@ -94,7 +94,7 @@ img{
 }
 .about-cafe{
     /* background-color: yellow; */
-    width: 500px;
+    width: 440px;
     /* height: 600px; */
     padding: 3vh;
 }
@@ -137,10 +137,13 @@ b{
     gap: 10vh;
 }
 .menu-about{
-    width: 570px;
+    width: 440px;
     /* background-color: green; */
     /* height: 700px; */
     padding: 3vh;
+}
+.menu-img{
+    width: 440px;
 }
 .menu-about h1{
     text-align: center ;
